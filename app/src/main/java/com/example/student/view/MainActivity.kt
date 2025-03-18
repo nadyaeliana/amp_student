@@ -18,6 +18,8 @@ class MainActivity : AppCompatActivity() {
             insets
 // bug fix
             //tes
+
+            //bug fix 3
         }
     }
 }
